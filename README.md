@@ -12,7 +12,7 @@ I am originally from Rize, but I was born and raised in Balıkesir/Edremit. Pamu
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 🔭  I'm currently working on C#, PHP, HTML, CSS and JavaScript
-- 👋  I've experience with PhpStorm, Visual Studio Code, Visual Studio and Android Studio
+- 👋  I've experience with PhpStorm, Visual Studio Code, Visual Studio
 - 🌱  I'm currently learning .Net 5 and .Net 6
 - 🤔  I aim to learn Docker and Kubernetes
 - 📫  How to reach me: osmanmahmutcepoglu@gmail.com
