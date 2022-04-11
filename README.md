@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=osmanmahmutcepoglu)
 <h1>Hi there 👋</h1>
 
 <h2>My name is Osman. I'm a Developer 🚀 from Turkey.</h2>
