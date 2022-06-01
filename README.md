@@ -3,7 +3,7 @@
 
 <h2>My name is Osman. I'm a Developer 🚀 from Turkey.</h2>
 
-<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="right" width="400px !important" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 <p>
 I am originally from Rize, but I was born and raised in Balıkesir/Edremit. Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.
